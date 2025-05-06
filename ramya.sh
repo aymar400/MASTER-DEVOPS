@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "check directory"
-if [ -d $devops1 ]
+echo "check files"
+if [ -d $devops1 0]
 then
 echo "$directory exist"
 else
